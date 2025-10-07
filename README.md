@@ -62,16 +62,19 @@ This project demonstrates basic LAN discovery using ARP. It helps learners under
 
 This tool is for educational and authorized testing only. Only run scans on networks and machines you own or where you have explicit permission. Unauthorized scanning may be illegal and unethical.
 
+---
+
 🧾 Files in this repo
 
 network_scanner.py — main script
 
 README.md — this file
 
+---
+
 👤 Author
 
 Dennis Alagskomah (alagskomahd)
 📫 Email: alagskomah25@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/alagskomah/
 
