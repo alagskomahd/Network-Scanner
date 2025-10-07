@@ -75,7 +75,7 @@ README.md — this file
 
 👤 Author
 
-Dennis Alagskomah (alagskomahd)
+Dennis Alagskomah
 📫 Email: alagskomah25@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/alagskomah/
 
