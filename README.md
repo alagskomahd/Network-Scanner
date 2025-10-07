@@ -55,7 +55,7 @@ This project demonstrates basic LAN discovery using ARP. It helps learners under
    ```pgsql
    IP				        MAC Address
    ---------------------------------
-   192.168.1.1         aa:bb:cc:dd:ee:ff
+   192.168.1.1          aa:bb:cc:dd:ee:ff
    192.168.1.12         11:22:33:44:55:66
    192.168.1.15         5d:2c:11:57:ff:33
 
